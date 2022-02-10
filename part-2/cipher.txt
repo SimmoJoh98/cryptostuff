@@ -1,0 +1,3 @@
+I'd use character codes to modify the character values like I did in one of the morning warmup problems. It'd have to be a pretty advanced algorithm, but, it would work pretty well.
+
+as for the major security breach. Nord VPN had a pretty large one, as well as facebook if I remember. I'll look more into those, and come back here later, as the lab times almost up.
